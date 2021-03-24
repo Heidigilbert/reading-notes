@@ -12,7 +12,7 @@ Things to remember when building a website.
 
 * web usage
 
-People are using your service to create  revenue and attract new customers to their website.  It's very importand to understand what the customers wants and the best way it can be used and fafil all their needs. 
+People are using your service to create  revenue and attract new customers to their website.  It's very important to understand what the customers wants and the best way it can be used and fulfill all their needs. 
 
 
 Chapter 17 
@@ -27,7 +27,7 @@ Chapter 17
 
 * main
 
-* pharagraph 
+* paragraph 
 
 * image 
 
